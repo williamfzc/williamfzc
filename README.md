@@ -1,6 +1,7 @@
 ## About
 
 - RD (Major in JVM languages / Python)
-- DevOps improvement
+- My projects on github may not related to my real work 
+- Working for: DevOps toolchain / Compilation
 
 Contact me via email.
