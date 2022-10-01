@@ -1,7 +1,6 @@
 ## About
 
-- RD (Major in JVM languages / Python)
-- My projects on github may not related to my real work 
-- Working for: DevOps / Infrastructure
+- Major in JVM languages / Golang / Python
+- DevOps / Infrastructure
 
-Contact me via email.
+Contact me via email: williamfzc@foxmail.com
